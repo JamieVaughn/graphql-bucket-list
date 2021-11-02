@@ -42,7 +42,7 @@
     "graphql-tools": "^4.0.0",
     "jwt-simple": "^0.5.5",
     "lodash.merge": "^4.6.1",
-    "mongodb": "^2.2.31",
+    "mongodb": "^3.1.13",
     "node-fetch": "^2.6.1",
     "node-geocoder": "^3.22.0",
     "nodeify": "^1.0.1",
