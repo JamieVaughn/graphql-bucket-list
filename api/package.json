@@ -41,7 +41,7 @@
     "graphql-subscriptions": "^1.0.0",
     "graphql-tools": "^4.0.0",
     "jwt-simple": "^0.5.5",
-    "lodash.merge": "^4.6.1",
+    "lodash.merge": "^4.6.2",
     "mongodb": "^3.1.13",
     "node-fetch": "^2.6.1",
     "node-geocoder": "^3.22.0",
