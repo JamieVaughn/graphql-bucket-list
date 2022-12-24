@@ -52,7 +52,7 @@
     "apollo-link-ws": "^1.0.9",
     "better-react-spinkit": "^2.0.4",
     "dotenv-webpack": "^1.5.7",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "graphql": "^14.0.2",
     "graphql-tag": "^2.9.2",
     "http-proxy-middleware": "^0.17.4",
