@@ -46,7 +46,7 @@
     "node-fetch": "^3.2.10",
     "node-geocoder": "^3.22.0",
     "nodeify": "^1.0.1",
-    "passport": "^0.3.2",
+    "passport": "^0.6.0",
     "passport-jwt": "^2.2.1",
     "subscriptions-transport-ws": "^0.9.15"
   }
