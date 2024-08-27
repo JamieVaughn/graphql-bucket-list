@@ -72,7 +72,7 @@
     "shortid": "^2.2.14",
     "styled-components": "^3.4.9",
     "subscriptions-transport-ws": "^0.9.15",
-    "webpack": "2.2.1",
+    "webpack": "5.94.0",
     "webpack-node-externals": "^1.6.0"
   }
 }
